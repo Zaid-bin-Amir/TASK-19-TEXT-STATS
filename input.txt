@@ -1,0 +1,7 @@
+Python is a popular programming language used in web development, data science, and automation.
+It is easy to read and write, which makes it a great choice for beginners.
+
+File handling is an important skill. With Python, we can read, write, and process text files easily.
+Text processing helps us count lines, words, and characters from any document.
+
+Practice every day, and you will become better at programming!
